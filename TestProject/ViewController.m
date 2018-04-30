@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"test");
-    NSLog(@"gitignore chack");
+    NSLog(@"gitignore check");
+    NSLog(@"gitignore check");
 
 }
 
