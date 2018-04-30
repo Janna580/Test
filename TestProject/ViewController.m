@@ -18,7 +18,7 @@
     [super viewDidLoad];
     NSLog(@"test");
     NSLog(@"gitignore chack");
-
+    NSLog(@"Version2 log");
 }
 
 
