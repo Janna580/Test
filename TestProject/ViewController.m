@@ -16,8 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // xcode master
-    // xcode master: new text
+    //xcode master, @580
 
 }
 
