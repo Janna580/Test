@@ -22,7 +22,6 @@
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     //new master text
-    //new master text2
 }
 
 
