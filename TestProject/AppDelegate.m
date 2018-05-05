@@ -23,6 +23,8 @@
 - (void)applicationWillResignActive:(UIApplication *)application {
     //new master text
     //new master text4
+    //new master text2
+    //new master text3
 }
 
 
